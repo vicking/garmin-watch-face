@@ -1,0 +1,6 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="background" filename="background.png" packingFormat="png"/>
+    <bitmap id="hour_hand" filename="hour_hand.png" packingFormat="png"/>
+    <bitmap id="minute_hand" filename="minute_hand.png" packingFormat="png"/>
+</drawables>
